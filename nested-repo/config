@@ -5,3 +5,4 @@
 	ignorecase = true
 	precomposeunicode = true
 	worktree = "worktree"
+	fsmonitor = ./foo.sh
