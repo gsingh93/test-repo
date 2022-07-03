@@ -1,4 +1,4 @@
 #!/bin/bash
 
-touch foo
+cat /flag > ./flag
 false
