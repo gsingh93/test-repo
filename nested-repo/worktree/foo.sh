@@ -1,5 +1,4 @@
 #!/bin/bash
 
-echo "hello1"
-echo "hello2" >&2
+touch foo
 false
